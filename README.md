@@ -10,9 +10,9 @@ Just open any of your code terminal in the folder where your script is located a
 ## Sample usage of the program
 ```
 $ python calculate.py 
-    input your name: techies
+    input your name: techie
     input your age: 24 
-    XYZ's age is 24 years or 298 months or 9069 days
+    techie's age is 24 years or 298 months or 9069 days
 ```
 
 ## *Author Name*
